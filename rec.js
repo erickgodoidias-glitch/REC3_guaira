@@ -1,7 +1,6 @@
-const personagem = "Gordon"
-let nivel = 241
-let genero = "masculino"
-let conquistas = 196
-let mundo = 3
+let idade = 22;
+let altura = 178;
+const nome = "joão";
+let nivel = 15;
 
-console.log(`o personagem ${personagem} é do genero ${genero} possui o nivel ${nivel} está no conquista de numero ${conquistas} e está no mundo ${mundo}. `)
+console.log(`qual sua idade ${idade} quanto você tem de altura ${altura} qual seu nome ${nome} qual seu nível ${nivel}`)
